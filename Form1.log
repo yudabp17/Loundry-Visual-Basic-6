@@ -1,0 +1,89 @@
+Line 27: Class MSDataGridLib.DataGrid of control DataGrid1 was not a loaded control class.
+Line 239: Class MSAdodcLib.Adodc of control Adodc1 was not a loaded control class.
+Line 451: Class MSMask.MaskEdBox of control MaskEdBox4 was not a loaded control class.
+Line 465: Class MSMask.MaskEdBox of control MaskEdBox3 was not a loaded control class.
+Line 479: Class MSMask.MaskEdBox of control MaskEdBox2 was not a loaded control class.
+Line 493: Class MSMask.MaskEdBox of control MaskEdBox1 was not a loaded control class.
+Line 516: Class MSComCtl2.DTPicker of control DTPicker2 was not a loaded control class.
+Line 529: Class MSComCtl2.DTPicker of control DTPicker1 was not a loaded control class.
+Line 28: The property name Bindings in DataGrid1 is invalid.
+Line 34: The property name _ExtentX in DataGrid1 is invalid.
+Line 35: The property name _ExtentY in DataGrid1 is invalid.
+Line 36: The property name _Version in DataGrid1 is invalid.
+Line 37: The property name HeadLines in DataGrid1 is invalid.
+Line 38: The property name RowHeight in DataGrid1 is invalid.
+Line 39: The property name FormatLocked in DataGrid1 is invalid.
+Line 48: The property name HeadFont in DataGrid1 is invalid.
+Line 58: The property name ColumnCount in DataGrid1 is invalid.
+Line 71: The property name Column00 in DataGrid1 is invalid.
+Line 84: The property name Column01 in DataGrid1 is invalid.
+Line 97: The property name Column02 in DataGrid1 is invalid.
+Line 110: The property name Column03 in DataGrid1 is invalid.
+Line 123: The property name Column04 in DataGrid1 is invalid.
+Line 136: The property name Column05 in DataGrid1 is invalid.
+Line 149: The property name Column06 in DataGrid1 is invalid.
+Line 162: The property name Column07 in DataGrid1 is invalid.
+Line 175: The property name Column08 in DataGrid1 is invalid.
+Line 188: The property name Column09 in DataGrid1 is invalid.
+Line 201: The property name Column10 in DataGrid1 is invalid.
+Line 202: The property name SplitCount in DataGrid1 is invalid.
+Line 237: The property name Split0 in DataGrid1 is invalid.
+Line 244: The property name _ExtentX in Adodc1 is invalid.
+Line 245: The property name _ExtentY in Adodc1 is invalid.
+Line 246: The property name ConnectMode in Adodc1 is invalid.
+Line 247: The property name CursorLocation in Adodc1 is invalid.
+Line 248: The property name IsolationLevel in Adodc1 is invalid.
+Line 249: The property name ConnectionTimeout in Adodc1 is invalid.
+Line 250: The property name CommandTimeout in Adodc1 is invalid.
+Line 251: The property name CursorType in Adodc1 is invalid.
+Line 252: The property name LockType in Adodc1 is invalid.
+Line 253: The property name CommandType in Adodc1 is invalid.
+Line 254: The property name CursorOptions in Adodc1 is invalid.
+Line 255: The property name CacheSize in Adodc1 is invalid.
+Line 256: The property name MaxRecords in Adodc1 is invalid.
+Line 257: The property name BOFAction in Adodc1 is invalid.
+Line 258: The property name EOFAction in Adodc1 is invalid.
+Line 259: The property name ConnectStringType in Adodc1 is invalid.
+Line 263: The property name Orientation in Adodc1 is invalid.
+Line 265: The property name Connect in Adodc1 is invalid.
+Line 266: The property name OLEDBString in Adodc1 is invalid.
+Line 267: The property name OLEDBFile in Adodc1 is invalid.
+Line 268: The property name DataSourceName in Adodc1 is invalid.
+Line 269: The property name OtherAttributes in Adodc1 is invalid.
+Line 270: The property name UserName in Adodc1 is invalid.
+Line 271: The property name Password in Adodc1 is invalid.
+Line 272: The property name RecordSource in Adodc1 is invalid.
+Line 273: The property name Caption in Adodc1 is invalid.
+Line 283: The property name _Version in Adodc1 is invalid.
+Line 457: The property name _ExtentX in MaskEdBox4 is invalid.
+Line 458: The property name _ExtentY in MaskEdBox4 is invalid.
+Line 459: The property name _Version in MaskEdBox4 is invalid.
+Line 462: The property name Format in MaskEdBox4 is invalid.
+Line 463: The property name PromptChar in MaskEdBox4 is invalid.
+Line 471: The property name _ExtentX in MaskEdBox3 is invalid.
+Line 472: The property name _ExtentY in MaskEdBox3 is invalid.
+Line 473: The property name _Version in MaskEdBox3 is invalid.
+Line 476: The property name Format in MaskEdBox3 is invalid.
+Line 477: The property name PromptChar in MaskEdBox3 is invalid.
+Line 485: The property name _ExtentX in MaskEdBox2 is invalid.
+Line 486: The property name _ExtentY in MaskEdBox2 is invalid.
+Line 487: The property name _Version in MaskEdBox2 is invalid.
+Line 490: The property name Format in MaskEdBox2 is invalid.
+Line 491: The property name PromptChar in MaskEdBox2 is invalid.
+Line 499: The property name _ExtentX in MaskEdBox1 is invalid.
+Line 500: The property name _ExtentY in MaskEdBox1 is invalid.
+Line 501: The property name _Version in MaskEdBox1 is invalid.
+Line 513: The property name Format in MaskEdBox1 is invalid.
+Line 514: The property name PromptChar in MaskEdBox1 is invalid.
+Line 522: The property name _ExtentX in DTPicker2 is invalid.
+Line 523: The property name _ExtentY in DTPicker2 is invalid.
+Line 524: The property name _Version in DTPicker2 is invalid.
+Line 525: The property name CustomFormat in DTPicker2 is invalid.
+Line 526: The property name Format in DTPicker2 is invalid.
+Line 527: The property name CurrentDate in DTPicker2 is invalid.
+Line 535: The property name _ExtentX in DTPicker1 is invalid.
+Line 536: The property name _ExtentY in DTPicker1 is invalid.
+Line 537: The property name _Version in DTPicker1 is invalid.
+Line 538: The property name CustomFormat in DTPicker1 is invalid.
+Line 539: The property name Format in DTPicker1 is invalid.
+Line 540: The property name CurrentDate in DTPicker1 is invalid.
